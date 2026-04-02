@@ -32,6 +32,8 @@ Exceptions to this are:
 #### 2.4 **Admin events should be done in moderation without heavily altering the flow of the round.**
 An "*event*" here is generally meant to be any admin intervention in the round that affects more than a handful of people: spawning a cookie for a prayer *no*, spawning a sentient monkey that runs around and messes with people *yes*.
 
+Trialmins are expressly ***disallowed*** from running any kind of event, no matter how small, without express permission from an online Game Admin.
+
 Heavily round-altering admin events (e.g. powerful wizard invasion, nations) should be voted for by the playerbase with `customvote` and only done on Extended (that means forcing the preset before the round starts!).
 
 Events overall should not be something that occur every round. Log what events you've done in Discord (just when & what, and no need to log very minor stuff), and try not to overwhelm players as we want to maintain a level of consistency in roleplay which events often detract from.
