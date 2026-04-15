@@ -96,47 +96,57 @@ Rule violations not in the offense table can still have bans applied, but have n
 | Grouping Category | Offense | First Offense | Second Offense | Third Offense | Fourth Offense |
 |-------------------|------------------------------------------------------------------------------------------------------------|----------------|--------------------------------------------------------------------------------------------------------------------------|---------------|----------------|
 | Non-grouping | Slurs, excluding "retard" and variants | Indef GB | | | |
-| Non-grouping | "Retard" and variants | W | 1d - 3d GB | Indef GB | |
+| Non-grouping | "Retard" and variants | 1d - 3d GB | 3d - 7d GB | Indef GB ||
 | Non-grouping | Bigotry/discrimination | Indef GB | | | |
 | Non-grouping | ERP | Indef GB | | | |
 | Non-grouping | Sexual content | W - 3d GB | 7d GB | Indef GB | |
 | Account | Metacommunications | Indef GB | | | |
 | Account | Ban Evasion | Voucher Ban | If after an accepted voucher ban, permanent ban.<br/>Otherwise, extend voucher ban to 6 months from evasion attempt. | | |
 | Account | Multi-keying | W - **Indef** GB | Indef GB | | |
-| Account | Ahelp misuse in bad faith | **W** - 12hr GB | 12hr - 3d GB | **7d** - 7.5d GB | |
+| Account | Ahelp misuse in bad faith | **W** - 12hr GB | 12hr - 3d GB | **7d** GB | |
 | Account | Under 18 / Under 18 behaviour | Indef GB | | | |
-| Language | Non-english chat | W | W - 12hr GB | 3d GB | **7d** - 7.5d GB |
-| Exploits | Bugs/exploits | **W** - 7d GB | 12hr - 7d GB | 3d - 15d GB | 7d - 15d GB |
-| AI Laws | Failure to follow silicon laws | W - 5d RB | 3d - 7.5d RB | Indef RB | |
-| Familiars | Familiar griefing master | 12hr GB | 3d GB | **7d** - 7.5d GB | |
-| Familiars | Familiar unreasonable failure to obey orders | W | 12hr GB | 3d GB | **7d** - 7.5d GB |
-| Immersion | Bad character name | **W** - 12hr GB | **12hr** - 3d GB | **7d** - 7.5d GB | |
+| Language | Non-english chat | W | W - 12hr GB | 3d GB | **7d** GB |
+| Exploits | Bugs/exploits | **W** - 3d GB | 12hr - 7d GB | 3d - 15d GB | Indef GB |
+| AI Laws | Failure to follow silicon laws | W - 5d RB | 3d - 7d RB | Indef RB | |
+| Familiars | Familiar griefing master | 12hr GB | 3d GB | **7d** GB | |
+| Familiars | Familiar unreasonable failure to obey orders | W | 12hr GB | 3d GB | **7d** GB |
+| Immersion | Bad character name | **W** - 12hr GB | **12hr** - 3d GB | **7d** GB | |
 | Immersion | Text speak | W | W | **W** - 12hr GB | W - 12hr GB |
-| Immersion | OOC terms IC | W | **W** - 12hr GB | **12hr** - 3d GB | 3d - 7.5d GB |
-| Immersion | Bypassing chat restrictions | W | W - **4hr** - 12hr GB | 12hr - 3d GB | 3d - 7.5d GB |
-| Metagaming | IC in OOC | W | W - 12hr GB | 3d GB | **7d** - 7.5d GB |
-| Metagaming | Using info from death | W - 12hr GB | 12hr - 3d GB | 3d - 7.5d GB | |
-| Metagaming | Using info from past life | 12hr - 48hr GB | 3d GB | **7d** - 7.5d GB | |
-| Metagaming | Metagaming round type | W - 12hr GB | 12hr - 3d GB | 3d - 7.5d GB | |
-| Self-antag | Self-antag | W - 12hr GB | 12hr - 3d GB | **7d** - 7.5d GB | |
+| Immersion | OOC terms IC | W | **W** - 12hr GB | **12hr** - 3d GB | 3d - 7d GB |
+| Immersion | Bypassing chat restrictions | W | W - **4hr** - 12hr GB | 12hr - 3d GB | 3d - 7d GB |
+| Immersion | Powergaming | **W** | W - **6hr** - 12h GB | **1d** - 3d GB | **3d** - 7d GB |
+| Metagaming | IC in OOC | W | W - 12hr GB | 3d GB | **7d** GB |
+| Metagaming | Using info from death | W - 12hr GB | 12hr - 3d GB | 3d - 7d GB | |
+| Metagaming | Using info from past life | 12hr - 48hr GB | 3d GB | **7d** GB | |
+| Metagaming | Metagaming round type | W - 12hr GB | 12hr - 3d GB | 3d - 7d GB | |
+| Self-antag | Self-antag | W - 12hr GB | 12hr - 3d GB | **7d** GB | |
 | Self-antag | Station sabotage | W - 3d GB | 12hr - 7d GB | 14d - 15d GB | |
-| Self-antag | Cults/riots/revolutions | **12hr** - 3d GB | 12hr - **3d** - 7d GB | **7d** - 7.5d GB | |
-| Self-antag | Cooperating with known antags | 12hr GB | 3d GB | **7d** - 7.5d GB | |
-| Griefing | Round stalling | **W** - 12hr GB | **12hr** - 3d GB | 3d - 7d GB | **7d** - 7.5d GB |
-| Griefing | Friendly antag | **W** - 24hr GB | 24hr - 3d GB | **7d** - 7.5d GB | |
+| Self-antag | Cults/riots/revolutions | **12hr** - 3d GB | **3d** - 7d GB | **7d** GB | |
+| Self-antag | Cooperating with known antags | 12hr GB | 3d GB | **7d** GB | |
+| Griefing | Round stalling | **W** - 12hr GB | **12hr** - 3d GB | 3d - 7d GB | **7d** GB |
+| Griefing | Friendly antag | **W** - 24hr GB | 24hr - 3d GB | **7d** GB | |
 | Griefing | Antagonist team sabotage | 24hr - 3d GB | 3d - Indef GB | 7d - Indef GB | |
-| Griefing | Early massive station sabotage | **W** - 12hr GB | 24hr - 3d GB | **7d** - 7.5d GB | |
+| Griefing | Early massive station sabotage | **W** - 12hr GB | 24hr - 3d GB | **7d** GB | |
 | Griefing | Unreasonable failure to follow an order from a team leader | W - 5d RB | 3d - 7d RB | Indef RB | |
-| Griefing | Harassing a player/role/department with no IC conflict | W - 24hr GB | 24hr - 3d GB | **7d** - 7.5d GB | |
+| Griefing | Harassing a player/role/department with no IC conflict | W - 24hr GB | 24hr - 3d GB | **7d** GB | |
 | Griefing | Abandoning a role | W - 5d RB | 3d - 7d RB | Indef RB | |
-| Griefing | Antag rolling | 12hr - 3d GB | 3d - 7d GB | **7d** - 7.5d GB | |
-| Griefing | Damage/disruption to arrivals/arrivals shuttle | 12hr - 3d GB | 3d - 7d GB | 7d - 15d GB | |
-| Escalation | Over escalation | W | 12hr GB | 3d GB | **7d** - 7.5d GB |
-| Escalation | RDM | 12hr GB | 3d GB | **7d** - 7.5d GB | |
-| Escalation | Over escalation or RDM that is a secondary result of station sabotage | 12hr GB | 3d GB | **7d** - 7.5d GB | |
+| Griefing | Antag rolling | 12hr - 3d GB | 3d - 7d GB | **7d** -GB | |
+| Griefing | Damage/disruption to arrivals/arrivals shuttle | 12hr - 3d GB | 3d - 7d GB | 7d GB | |
+| Escalation | Over escalation | W | 12hr GB | 3d GB | **7d** GB |
+| Escalation | RDM | 12hr GB | 3d GB | **7d** GB | |
+| Escalation | Over escalation or RDM that is a secondary result of station sabotage | 12hr GB | 3d GB | **7d** GB | |
 | Competence | Unreasonable incompetence in command role | W - **3d** - 7d RB | 7d - 15d RB | Indef RB | |
 | Competence | Taking actions a reasonable person would view as to be to the detriment of the station as security/command | 3d - 7d RB | 7d - 15d RB | Indef RB | |
 | Competence | Unreasonable failure of security/command to follow space law | W - **3d** - 7d RB | 7d - 15d RB | Indef RB | |
+
+## Modifiers
+
+```admonish info
+Modifiers are to be used at staffs discression.
+```
+Passenger/Assistant/Tiders (NOT INSURGENT) are to receive a 2x modifier to gamebans. We wish to strongly reinforce that such behaviour is to be done by insurgents or not at all.
+
+Bugs/Exploits are to be unpunished if an issue post is agreed to be made after the round is concluded. Bugs can be hilarious, but we still want to fix unintended issues.
 
 ## Appeal Hijacking
 
