@@ -148,6 +148,10 @@ Passenger/Assistant/Tiders (NOT INSURGENT) are to receive a 2x modifier to gameb
 
 Bugs/Exploits are to be unpunished if an issue post is agreed to be made after the round is concluded. Bugs can be hilarious, but we still want to fix unintended issues.
 
+No Intent to Roleplay (NITRP) modifier may be applied to any punishment that would be applied for a rulebreak, where there is no in-character reason for such action to take place. 
+Warnings may be increased to the next GameBan punishment offense. 
+GameBans are to receive a 2x modifier. 
+
 ## Appeal Hijacking
 
 If an appeal is currently assigned to someone, it is generally best to let them finish processing it. Cases where it may be acceptable to "hijack" an appeal are:
